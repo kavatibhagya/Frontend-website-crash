@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&display=swap');
+body{
+    font-family: 'DM Mono', monospace;
+    margin:0;
+}
+p, blockquote{
+    font-size: .9em;
+    line-height: 1.6em;
+
+}
+ul{
+    margin: 0;
+    padding:0;
+    list-style-type: none;
+    
+}

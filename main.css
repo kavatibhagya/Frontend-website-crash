@@ -28,3 +28,31 @@ header{
 .hide-mobile{
     display: none;
 }
+.menu{
+    margin-top: 45%;
+    width: 25px;
+}
+.server{
+    width:70%;
+    margin:2em auto 2em 25%;
+}
+h1, .subhead{
+    position:relative;
+    z-index: 3;
+
+}
+.subhead{
+    font-size: 1.1em;
+}
+.blue-container{
+    width:100%;
+    background: #00c2ff;
+    border-top-left-radius: 40px;
+    margin-top:15%;
+    padding:4em 0 2em;
+    color:#fff;
+    transform: skewY(-2deg);
+}
+.blue-container ul{
+    transform: skewY(2deg);
+}

@@ -93,3 +93,12 @@ h1, .subhead{
 .blue-container ul li:nth-child(3) img{
     width: 8%;
 }
+.grey-container{
+    padding:4em 0 2em;
+    background: #f6f6f6;
+    margin-top:-3em;
+}
+.grey-container ul li:first-child{
+    margin-bottom: 2em;
+
+}
